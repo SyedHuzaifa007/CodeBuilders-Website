@@ -1,2 +1,2 @@
 # CodeBuilders-Website
-This is CodeBuilders Website made with WordPress.
+This is CodeBuilders Website.
