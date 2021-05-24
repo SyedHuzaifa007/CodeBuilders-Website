@@ -1,2 +1,2 @@
 # CodeBuilders-Website
-This repository contains all the code
+This repository contains all the code for Code Builders website
